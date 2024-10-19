@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @GRACIAROSELIN7
+- 👋 Hi, I’m @dj
 - 👀 I’m interested in SOFTWARE DEVELOPER
 - 🌱 I’m currently learning MCA
 - 💞️ I’m looking to collaborate on WEB DEVELOPMENT
